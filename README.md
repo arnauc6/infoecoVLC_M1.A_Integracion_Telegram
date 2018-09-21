@@ -1,6 +1,6 @@
 # **Módulo 1: Integración con Telegram**
 
-Modulo responsable de gestionar todos los mensajes que se reciben de Telegram. Se comunica con el módulo 3 (Procesamiento del lenguaje natural) y el módulo 2 (Gestor de diálogo) para obtener la respuesta para el usuario. Si quieres más información entra al proyecto **[infoecoVLC: Asistente virtual para información económica municipal](https://github.com/areahackerscivics/infoecoVLC)**
+Modulo responsable de gestionar todos los mensajes que se reciben de Telegram. Se comunica con el módulo 3 (Procesamiento del lenguaje natural) y el módulo 2 (Gestor de diálogo) para obtener la respuesta para el usuario. Si quieres más información entra al proyecto **[infoecoVLC: Asistente virtual para información económica municipal](https://github.com/arnauc6/infoecoVLC.git)**
 
 ## Descripción
 
@@ -25,7 +25,7 @@ El modulo consta con todos los archivos necesarios para ser ejecutado en Docker 
 **Pasos**
 1. Descargar desde github el proyecto.
 
-        sudo git clone https://github.com/areahackerscivics/infoecoVLC_M4.A_Integracion_Telegram.git
+        sudo git clone https://github.com/arnauc6/infoecoVLC_M1.A_Integracion_Telegram.git
 
 2. Entramos en la carpeta descargada que contiene el proyecto.
 
